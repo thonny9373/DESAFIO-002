@@ -1,0 +1,95 @@
+body{
+    background: #273238;
+    
+}
+h1{
+    background-color: #ffffff;;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500; font-size: 50px;
+    color: #698593;
+    
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: #e6cbbf;
+    
+}
+
+p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #cecdb2;
+}
+
+.aspiradora{
+    color: #e6cbbf;
+}
+.aspiradora::first-letter{
+    font-size: 30px;
+}
+
+
+.celulares{
+    color: #a1c1cb;
+}
+.celulares::first-letter{
+    font-size: 30px;
+}
+.consolas{
+    color: #bcbdbf;}
+.consolas::first-letter{
+    font-size: 30px;
+}
+
+.home{
+    color: #8d94a1;
+}
+.home::first-letter{
+    font-size: 30px;
+}
+.televisores{
+    color: #b2b2aa;
+}
+.televisores::first-letter{
+    font-size: 30px;
+}
+
+.aspi{
+    margin-left: 40px;
+    border: solid 5px #e6cbbf;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+
+.movil {
+    margin-left: 40px;
+    border: solid 5px #a1c1cb;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
+.cons {
+    margin-left: 40px;
+    border: solid 5px #bcbdbf;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+
+.ht {
+    margin-left: 40px;
+    border: solid 5px #8d94a1;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+
+.tv {
+    margin-left: 40px;
+    border: solid 5px #b2b2aa;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
